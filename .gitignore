@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.exe
+
+# Images/Screenshots (like the ones you have)
+*.png
+*.webp
+Screenshot*.png
+Home_*.webp
+
+# Lease documents
+lease-agreement-*.txt
+lease-agreement-*.pdf
+*.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+._*
+.Spotlight-V100
+.Trashes
