@@ -1,0 +1,38 @@
+.dashboard-container {
+  text-align: center;
+  padding: 2rem;
+}
+
+.dashboard-title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+}
+
+.dashboard-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.dashboard-btn {
+  padding: 0.8rem 1.5rem;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.dashboard-btn:hover {
+  background-color: #2980b9;
+}
+
+.logout {
+  background-color: #e74c3c;
+}
+
+.logout:hover {
+  background-color: #c0392b;
+}
